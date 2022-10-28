@@ -7,6 +7,6 @@ Teoriako diapositibak https://github.com/JABP1994/ZMI-materiala/tree/Teoriako-di
 
 Ariketa orriak https://github.com/JABP1994/ZMI-materiala/tree/Ariketa-orriak aurki daitezke.
 
-1. gaiko ordenagailu praktikak eta tutorialak https://github.com/JABP1994/ZMI-materiala/tree/1.-gaiko-ordenagailu-praktikak aurki daitezke.
+Lehen gaiko ordenagailu praktikak eta tutorialak https://github.com/JABP1994/ZMI-materiala/tree/1.-gaiko-ordenagailu-praktikak aurki daitezke.
 
-2. gaiko ordenagailu praktikak eta tutorialak https://github.com/JABP1994/ZMI-materiala/tree/2.-gaiko-ordenagailu-praktikak aurki daitezke.
+Bigarren gaiko ordenagailu praktikak eta tutorialak https://github.com/JABP1994/ZMI-materiala/tree/2.-gaiko-ordenagailu-praktikak aurki daitezke.
